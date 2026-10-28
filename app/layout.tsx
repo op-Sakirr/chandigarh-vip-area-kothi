@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     title: 'My Google AI Studio App',
     description: 'An application built with Google AI Studio.',
   },
+  other: {
+    'google-site-verification': 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
